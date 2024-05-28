@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Magic</string>
+    <string name="thanks_for_telling_me_your_name">Thanks for telling me your name</string>
+    <string name="magic">Magic</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="click_here">Click Here</string>
+</resources>
